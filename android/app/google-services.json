@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "485174540934",
+    "project_id": "c-prototype-a69d0",
+    "storage_bucket": "c-prototype-a69d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485174540934:android:dfbbd3ef0a658788702f07",
+        "android_client_info": {
+          "package_name": "com.example.c_proto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485174540934-4b8mnjpv6hpl639sfbnlpors2p5p1qgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzfPpns2Ik5U4GpyvBvjIIiLMAli7OsXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485174540934-4b8mnjpv6hpl639sfbnlpors2p5p1qgv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485174540934-n95u0vdrqs40u76cheni24lm2kebgqd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cProto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
